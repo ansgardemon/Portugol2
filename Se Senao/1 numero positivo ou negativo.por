@@ -3,7 +3,7 @@ programa {
     inteiro numero
 
 
-    escreva("Digite um número ")
+    escreva("Digite um número: ")
     leia(numero)
 
     se(numero < 0){
