@@ -22,7 +22,7 @@ programa {
     }
 
 
-    escreva("O maior menor digitado foi o ", menorNumero, " Na posição ", posicaoMenor+1)
+    escreva("O menor digitado foi o ", menorNumero, " Na posição ", posicaoMenor+1)
 
   }
 }
