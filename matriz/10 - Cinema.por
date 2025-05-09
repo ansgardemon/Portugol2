@@ -14,7 +14,7 @@ programa {
 
         para (i = 0; i < total; i++) {
             escreva("Digite a linha do assento (0 a 2): ")
-            leia(linha)5
+            leia(linha)
             escreva("Digite a coluna do assento (0 a 3): ")
             leia(coluna)
 
